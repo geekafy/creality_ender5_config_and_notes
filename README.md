@@ -1,18 +1,12 @@
-# Documentation/notes on things relating to my Creality Ender 5 3D printer setup
-
-
-Included are my config files for Marlin. The include multiple tweaks I found all over the Interwebs, including, but likely not limited to:
-
-- [Teaching Tech: Ender 3 BLtouch vanilla Marlin guide](https://www.youtube.com/watch?v=sUlqrSq6LeY&t=324s)
-- [Teaching Tech: BLtouch advanced guide: Fully automated bed homing and levelling](https://www.youtube.com/watch?v=BV11-VOQjMc)
-- [Marlin 2.0 program memory usage by feature on AVR 8Bit boards](https://www.crosslink.io/marlin-2-0-memory-usage-by-feature/)
+# All things relating to my Creality Ender 5 3D printer setup
+## apecial thanks to CMER (https://github.com/cmer) for helping me getting started on this adventure and from whom I based this documentation on.
 
 ### My current setup:
 
 - Creality Ender 5
 - Creality 1.1.4 stock controller board (8-bit)
 
-#### Mods:
+#### Current mods:
 
 - [Genuine BL Touch w/ mounting kit](https://www.creality3dofficial.com/products/creality-bl-touch)
 - [Creality glass bed](https://www.creality3dofficial.com/products/creality-new-upgraded-heated-bed-build-plate-surface)
@@ -20,7 +14,7 @@ Included are my config files for Marlin. The include multiple tweaks I found all
 - [Simple hot end fix](https://www.youtube.com/watch?v=7tCxO17XZtw)
 - [Super Struts Remixed](https://www.thingiverse.com/thing:3661405)
 
-### Coming soon:
+### Upcoming mods:
 - BigTreeTech SKR 1.4 w/ TMC2209
 - BigTreeTech TFT35
 - [Hero Me Gen 3](https://www# My Ender 5 Config and Notes
