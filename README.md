@@ -1,5 +1,5 @@
 # All things relating to my Creality Ender 5 3D printer setup
-## apecial thanks to CMER (https://github.com/cmer) for helping me getting started on this adventure and from whom I based this documentation on.
+### apecial thanks to CMER (https://github.com/cmer) for helping me getting started on this adventure and from whom I based this documentation on.
 
 ### My current setup:
 
